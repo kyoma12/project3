@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
 <widget id="com.bpmpk.project3" version="1.0.1.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 	<name>Service Power Steering</name>
-	<description>app</description>
+	<description>Project3</description>
 	<author email="bpmp@gmail.com">ahlimedia</author>
 
 	<icon src="www/icon-256.png" width="256" height="256" density="xxxhdpi" />
